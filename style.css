@@ -1,0 +1,30 @@
+/* * { */
+    /* border: 1px solid black; */
+/* } */
+body{
+    background-image: url(pexels-bongkarn-thanyakij-3751732.jpg);
+    background-size: cover;
+}
+.judul{
+    text-align: center;
+    margin-top: 110px;
+    color: blue;
+    font-family: 'Anton', sans-serif;    
+
+}
+.container{
+    width: 585px;
+    margin-top: 30px;
+}
+.container2{
+    width: 614px;
+}
+.form{
+    width: 584px;
+}
+.header{
+    width: 414px;
+}
+.table{
+    text-align: center;
+}
